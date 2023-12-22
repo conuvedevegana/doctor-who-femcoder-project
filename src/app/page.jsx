@@ -1,11 +1,10 @@
-import MyButton from './components/button'
 import styles from './page.module.css'
+import "bootstrap/dist/css/bootstrap.min.css"
 
 export default function Home() {
   return (
     <main className={styles.main}>
       <h1>DOCTOR WHO</h1>
-      <MyButton/>
     </main>
   )
 }
