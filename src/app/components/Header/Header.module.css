@@ -1,0 +1,33 @@
+.header {
+    height: 10.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 3.625rem;
+    font: 600 1.25rem "Montserrat", sans-serif; /* buscar cómo importar fuente!!! */
+    line-height: 1.5rem;
+    z-index: 5;
+    background-color: #040521;
+  }
+  .menuLeft {
+  display: flex;
+  gap: 3.5rem;
+  color: white;
+  }
+
+  .logoHeader {
+    height: 10.5rem;
+  }
+
+  .menuRight {
+    display: flex;
+    gap: 19.625rem;
+  }
+
+  .search {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    color: white;
+  }
+
