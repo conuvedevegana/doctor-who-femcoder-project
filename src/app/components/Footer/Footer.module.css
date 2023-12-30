@@ -5,6 +5,7 @@
     place-items: center;
     height: 5rem;
     border-top: 0.188rem solid white;
+    max-width: 70%;
 }
 
 .channelLogo {
