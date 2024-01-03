@@ -1,0 +1,13 @@
+.footer {
+    background-color: #040521;
+    display: flex;
+    gap: 95rem;
+    place-items: center;
+    height: 5rem;
+    border-top: 0.188rem solid white;
+    max-width: 70%;
+}
+
+.channelLogo {
+    margin-left: 5rem;
+}
