@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
-import styles from './Header.module.css';
+import styles from './search.module.css';
 
 export default function Search() {
   return (

@@ -1,0 +1,11 @@
+.titleDoctress {
+    font-size: 4rem;
+    margin-bottom: 2.5rem;
+    padding: 0 2rem;
+}
+
+.descriptionDoctress {
+    padding: 3rem 2rem 3rem 2rem;
+    font-family: var(--font-montserrat);
+    font-size: 1.2rem;
+}

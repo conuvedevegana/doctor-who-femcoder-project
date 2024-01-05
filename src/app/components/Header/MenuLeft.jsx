@@ -5,9 +5,9 @@ import styles from './Header.module.css'
 export default function MenuLeft() {
   return (
     <nav className={styles.menuLeft}>
-        <Link className={styles.navItem} href="../../doctress/page.jsx" >Conoce a</Link>
-        <Link className={styles.navItem} href="" >Doctores</Link>
-        <Link className={styles.navItem} href="" >Contacto</Link>
+        <Link className={styles.navItem} href="/Conoce" >Conoce a</Link>
+        <Link className={styles.navItem} href="/doctores" >Doctores</Link>
+        <Link className={styles.navItem} href="/contact" >Contacto</Link>
     </nav>
   )
 }

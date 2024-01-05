@@ -7,10 +7,10 @@ export default function Logo() {
   return (
     <Link href="/" className={styles.logoHeader}>
       <Image
-        src="/img/logos/logo.png"
+        src="/assets/img/logos/logo.png"
         alt="Home"
-        width={190.92}
-        height={195.62}
+        width={100}
+        height={100}
       />
     </Link>
   )
